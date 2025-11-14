@@ -43,7 +43,7 @@ Wait for the download to complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Find your Downloads folder and dins the sounds file.:  <br/>
+Find your Downloads folder and locate the sound file.:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
@@ -51,27 +51,27 @@ Find your Downloads folder and dins the sounds file.:  <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Use the browser and type https://tesladeck.com/custom-tesla-lock-sounds-download:  <br/>
+Insert the USB into the system:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-View and Select a Sound Type <br/>
+Open the USB folder <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click on the (3) dots of the chosen sound:  <br/>
+Drag the Sound File from your downloads to the USB Folder:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select Download:  <br/>
+If needed, rename the file to "Chime.mp3"  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for the download to complete:  <br/>
+Grab the USB with the new Chime and insert into the USB location on the Model 3:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Find your Downloads file and transfer it a USB:  <br/>
+Use the UX to select the BoomBox:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
 </p>
