@@ -43,8 +43,37 @@ Wait for the download to complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Find your Downloads folder and dins the sounds file.:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+ : <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Use the browser and type https://tesladeck.com/custom-tesla-lock-sounds-download:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+View and Select a Sound Type <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click on the (3) dots of the chosen sound:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select Download:  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for the download to complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Find your Downloads file and transfer it a USB:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 </p>
 
 <!--
