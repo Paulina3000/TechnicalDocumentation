@@ -20,35 +20,32 @@ This process describes how to change the Chime sound on a Model 3.
 
 <p align="center">
 Grab a Laptop and launch an internet browser: <br/>
+<br> Use the browser and type https://tesladeck.com/custom-tesla-lock-sounds-download:<br/>
+ 
+<img src="https://i.imgur.com/2o6wcLf.png" height="80%" width="80%" alt="Technical Documentation Steps"/>
 <br />
-<br />
-Use the browser and type https://tesladeck.com/custom-tesla-lock-sounds-download:  <br/>
-<img src="https://imgur.com/a/Ya08vYp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
+
 <br />
 View and Select a Sound Type <br/>
-<img src="https://imgur.com/a/Ya08vYp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ciuNEBX.png" height="80%" width="80%" alt="Technical Documentation Steps"/>
 <br />
 <br />
 Click on the (3) dots of the chosen sound:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select Download:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sN17McW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for the download to complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Find your Downloads folder and locate the sound file.:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ltyENSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
  : <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <br />
 Insert the USB into the system:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
