@@ -19,8 +19,7 @@ This process describes how to change the Chime sound on a Model 3.
 <h2>Process Instructions:</h2>
 
 <p align="center">
-1. Grab a Laptop and launch an internet browser: <br/>
-<br> Use the browser and navigate to https://tesladeck.com/custom-tesla-lock-sounds-download:<br/>
+1. Grab a Laptop and use an internet browser to navigate to: https://tesladeck.com/custom-tesla-lock-sounds-download:<br/>
  
 <img src="https://i.imgur.com/2o6wcLf.png" height="80%" width="80%" alt="Technical Documentation Steps"/>
 <br />
