@@ -7,7 +7,7 @@ This process describes how to change the Chime sound on a Model 3.
 <br />
 
 
-<h2>Hardaware Required</h2>
+<h2>Hardware Required</h2>
 
 - <b>USB </b> 
 - <b>Laptop with Internet Access</b>
