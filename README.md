@@ -1,6 +1,6 @@
 # TechnicalDocumentation
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=C5kHalfjNoM)
 
 <h2>Description</h2>
 This process describes how to change the Chime sound on a Model 3.
