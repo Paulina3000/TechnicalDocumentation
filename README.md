@@ -53,46 +53,39 @@ This process describes how to change the Chime sound on a Model 3.
 
 <br />
 <br />
-9. Drag the Sound File from your downloads to the USB Folder:  <br/>
+9. Drag the Sound File from your downloads to the USB Main Folder.  <br/>
 
 <br />
 <br />
-9.1 If needed, rename the file to "Chime.mp3"  <br/>
+9.1 If needed, rename the file to "LockChime.wav"  <br/>
 
 <br />
 <br />
-10. Grab the USB with the new Chime and insert into the USB location on the Model 3:  <br/>
+10. Grab the USB and install it into the USB location on the Model 3:  <br/>
 
 <br />
 <br />
-11. Use the UX to select the BoomBox:  <br/>
+11. Use the UX screen to Toy Box and find the BoomBox application:  <br/>
 
  <p align="center">
  : <br/>
 
 <br />
 <br />
-12. Locate the dropdown list and select the new sound:  <br/>
+12. Locate the dropdown list and select USB:  <br/>
 
 <br />
 <br />
-13. Confirm the sound has changed by locking the vehicle<br/>
+13. Once selected, lock the vehicle to confirm the chime has changed on the vehicle.<br/>
 
 <br />
 <br />
-14. Drag the Sound File from your downloads to the USB Folder:  <br/>
+13.1 If the chime did not change, review and inspect the chime file name and location. <br/>
 
 <br />
 <br />
-14.1 If needed, rename the file to "Chime.mp3"  <br/>
+13.2 Retry process. <br/>
 
-<br />
-<br />
-15. Grab the USB with the new Chime and insert into the USB location on the Model 3:  <br/>
-
-<br />
-<br />
-16. Use the UX to select the BoomBox:  <br/>
 
  
 </p>
