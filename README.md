@@ -19,7 +19,7 @@ This process describes how to change the Chime sound on a Model 3.
 <h2>Process Instructions:</h2>
 
 <p align="center">
-Grab a Laptop and launch an internet browser: <br/>
+1. Grab a Laptop and launch an internet browser: <br/>
 <br> Use the browser and navigate to https://tesladeck.com/custom-tesla-lock-sounds-download:<br/>
  
 <img src="https://i.imgur.com/2o6wcLf.png" height="80%" width="80%" alt="Technical Documentation Steps"/>
@@ -27,74 +27,74 @@ Grab a Laptop and launch an internet browser: <br/>
 
 
 <br />
-Scroll down and select a Sound type <br/>
+2. Scroll down and select a Sound type <br/>
 <img src="https://i.imgur.com/FqC6iAz.png" height="80%" width="80%" alt="Technical Documentation Steps"/>
 <br />
 <br />
-Click on the (3) dots of the chosen sound:  <br/>
+3. Click on the (3) dots of the chosen sound:  <br/>
 <br />
 <br />
-Select Download:  <br/>
+4. Select Download:  <br/>
 <img src="https://i.imgur.com/sN17McW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for the download to complete:  <br/>
+5. Wait for the download to complete:  <br/>
 <br />
 <br />
-Find your Downloads folder and locate the sound file.:  <br/>
+6. Find your Downloads folder and locate the sound file.:  <br/>
 <img src="https://i.imgur.com/ltyENSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
  : <br/>
 <br />
-Insert the USB into the system:  <br/>
+7. Insert the USB into the system:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Open the USB folder <br/>
+8. Open the USB folder <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Drag the Sound File from your downloads to the USB Folder:  <br/>
+9. Drag the Sound File from your downloads to the USB Folder:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-If needed, rename the file to "Chime.mp3"  <br/>
+9.1 If needed, rename the file to "Chime.mp3"  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Grab the USB with the new Chime and insert into the USB location on the Model 3:  <br/>
+10. Grab the USB with the new Chime and insert into the USB location on the Model 3:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Use the UX to select the BoomBox:  <br/>
+11. Use the UX to select the BoomBox:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <p align="center">
  : <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Locate the dropdown list and select the new sound:  <br/>
+12. Locate the dropdown list and select the new sound:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm the sound has changed by locking the vehicle<br/>
+13. Confirm the sound has changed by locking the vehicle<br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Drag the Sound File from your downloads to the USB Folder:  <br/>
+14. Drag the Sound File from your downloads to the USB Folder:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-If needed, rename the file to "Chime.mp3"  <br/>
+14.1 If needed, rename the file to "Chime.mp3"  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Grab the USB with the new Chime and insert into the USB location on the Model 3:  <br/>
+15. Grab the USB with the new Chime and insert into the USB location on the Model 3:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Use the UX to select the BoomBox:  <br/>
+16. Use the UX to select the BoomBox:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
 </p>
